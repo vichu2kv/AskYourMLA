@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "644853735227",
+    "firebase_url": "https://askyourmla.firebaseio.com",
+    "project_id": "askyourmla",
+    "storage_bucket": "askyourmla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644853735227:android:42a57b4465ca7e69",
+        "android_client_info": {
+          "package_name": "com.example.viswa.askyourmla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644853735227-mu5ueru5od1kt04q15uqe0l5gl6msbpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viswa.askyourmla",
+            "certificate_hash": "a1ff419e12a734489461f4474d3d094736a434b3"
+          }
+        },
+        {
+          "client_id": "644853735227-e58pa3pikl2u04jkqb3jpk74e5qqglf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo1MYwyYw11TJrJe0fVEf1m705IXzc4l0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644853735227-e58pa3pikl2u04jkqb3jpk74e5qqglf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

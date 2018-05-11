@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.viswa.askyourmla.Home">
+
+    <Button
+        android:id="@+id/HomeRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PEOPLE REGISTER"
+        android:layout_marginTop="150dp"
+        android:onClick="pHomeRegisterButtonClicked"/>
+
+    <Button
+        android:id="@+id/HomeLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PEOPLE LOGIN"
+        android:layout_marginTop="15dp"
+        android:onClick="pHomeLoginButtonClicked"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MLA REGISTER"
+        android:onClick="mHomeRegisterButtonClicked"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MLA LOGIN"
+        android:onClick="mHomeLoginButtonClicked"/>
+</LinearLayout>
